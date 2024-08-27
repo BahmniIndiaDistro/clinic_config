@@ -46,3 +46,4 @@ This need to fixed in the future, have to create separate configuration for clin
 For now, we need to be careful, that we always add a UNIQUE KEY across default-config and clinic-config. Also note that, for the same Key+English string, the translation in other languages returned by transifex will be the same across default-config or clinic-config, since the **memory** is the same for transifex.
 
 [Dev Notes for translating Bahmni](https://bahmni.atlassian.net/wiki/spaces/BAH/pages/41287695/Dev+Notes+for+Translating+Bahmni)
+
